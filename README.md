@@ -10,8 +10,9 @@
 Работаю в Agile: структурирую информацию, составляю тест‑планы и чек‑листы, готовлю подробные баг‑репорты и делаю процессы прозрачными для всей команды.
 
 Открыта к предложениям на позицию QA Engineer (тестировщик). Если у вас есть вакансия, не стесняйтесь связаться со мной — буду рада сотрудничеству 🙌
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)] [tobiks@yandex.ru](mailto:tobiks@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)] [@Popova_Natali1987](https://t.me/Popova_Natali1987)
+
+![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white) [tobiks@yandex.ru](mailto:tobiks@yandex.ru)
+![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white) [@Popova_Natali1987](https://t.me/Popova_Natali1987)
 
 <br>
 
