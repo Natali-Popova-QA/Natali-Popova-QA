@@ -15,6 +15,18 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white) [@Popova_Natali1987](https://t.me/Popova_Natali1987)
 
+## 📊 Статистика
+
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Natali-Popova-QA)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Natali-Popova-QA)
+
+<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
+<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
+
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxEvdokimov1)
+
+<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
+
 <br>
 
 ## Тестирование API и интеграций
