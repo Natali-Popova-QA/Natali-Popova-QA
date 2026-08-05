@@ -1,17 +1,83 @@
 ## Привет 👋
-Меня зовут Наталья, я QA Engineer
+Меня зовут Наталья
 
-<!--
-**Natali-Popova-QA/Natali-Popova-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Обо мне:
 
-Here are some ideas to get you started:
+Я QA‑инженер с фокусом на тестировании API и интеграций. Помогаю командам выпускать качественный продукт: снижаю количество критических дефектов на проде за счёт проработки требований, раннего проектирования тест‑кейсов и системного регрессионного покрытия.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В работе использую Postman и SoapUI для REST/SOAP, Charles для анализа трафика, SQL и NoSQL для проверки данных, Kibana и Grafana для мониторинга. Базовые знания HTML/CSS/JS позволяют быстро локализовать дефекты и определить, где проблема — в API или в отображении.
+
+Работаю в Agile: структурирую информацию, составляю тест‑планы и чек‑листы, готовлю подробные баг‑репорты и делаю процессы прозрачными для всей команды.
+
+Открыта к предложениям на позицию QA Engineer (тестировщик). Если у вас есть вакансия, не стесняйтесь связаться со мной — буду рада сотрудничеству 🙌
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)] [tobiks@yandex.ru](mailto:tobiks@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)] [@Popova_Natali1987](https://t.me/Popova_Natali1987)
+
+<br>
+
+## Тестирование API и интеграций
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+</div>
+
+## Тестирование Web и Мобильных приложений
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00711403ce0d92bfc418_54791d14-a97e-5277-a2e1-d1ea0b89c248.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp
+</div>
+
+## Логи и мониторинги
+<div>
+  <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
+</div>
+
+## Тестовая документация 
+  <div>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_xHZGshOkorHgEqi5_RYY-9FF--XlOkS345qO15IExKfwFhAfPiyY-hylzpwILAUJcc&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
+    <img src="https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
+    <img src="https://uploads.static.fo.vin/system/useruploads/images/660a/f8c5/a923/2223/c588/74ad/original/yonote.jpg?1711995077" title="Yonote" alt="Yonote" width="40" height="40"/>&nbsp
+  </div>
+
+## Работа с базами данных
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+</div>
+
+<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
+
+
+<br>
+
+## 🎒 Образование
+[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
+[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
+
+<br>
+<br>
+
+## 🤝 Контакт
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ne.den8@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nezhnyansky)
+
+<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
