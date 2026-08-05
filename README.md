@@ -11,7 +11,7 @@
 
 Открыта к предложениям на позицию QA Engineer (тестировщик). Если у вас есть вакансия, не стесняйтесь связаться со мной — буду рада сотрудничеству 🙌
 
-![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white) [tobiks@yandex.ru](mailto:tobiks@yandex.ru)
+![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white) [natali.p@gmail.com](mailto:natali.p@gmail.com)
 
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white) [@Popova_Natali1987](https://t.me/Popova_Natali1987)
 
