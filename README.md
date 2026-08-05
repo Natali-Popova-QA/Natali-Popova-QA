@@ -70,16 +70,3 @@
 
 
 <br>
-
-## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
-[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
-
-<br>
-<br>
-
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ne.den8@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nezhnyansky)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
