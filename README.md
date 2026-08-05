@@ -45,10 +45,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00711403ce0d92bfc418_54791d14-a97e-5277-a2e1-d1ea0b89c248.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги
@@ -66,7 +63,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_xHZGshOkorHgEqi5_RYY-9FF--XlOkS345qO15IExKfwFhAfPiyY-hylzpwILAUJcc&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-    <img src="https://uploads.static.fo.vin/system/useruploads/images/660a/f8c5/a923/2223/c588/74ad/original/yonote.jpg?1711995077" title="Yonote" alt="Yonote" width="40" height="40"/>&nbsp
   </div>
 
 ## Работа с базами данных
