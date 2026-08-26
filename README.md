@@ -75,7 +75,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate for junior.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Natali-Popova-QA/Natali-Popova-QA/refs/heads/main/certificate%20for%20junior.png)
-[<img src="/intership.jpg" width="280px" hspace="10px" alt="Стажировка">](https://raw.githubusercontent.com/Natali-Popova-QA/Natali-Popova-QA/refs/heads/main/internship.jpg)
+[<img src="/internship.jpg" width="280px" hspace="10px" alt="Стажировка">](https://raw.githubusercontent.com/Natali-Popova-QA/Natali-Popova-QA/refs/heads/main/internship.jpg)
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
