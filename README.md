@@ -74,8 +74,8 @@
 </div>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
-[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
+[<img src="/certificate for junior.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Natali-Popova-QA/Natali-Popova-QA/refs/heads/main/certificate%20for%20junior.png)
+[<img src="/intership.jpg" width="280px" hspace="10px" alt="Recommendation-1">](https://raw.githubusercontent.com/Natali-Popova-QA/Natali-Popova-QA/refs/heads/main/internship.jpg)
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
